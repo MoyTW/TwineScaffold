@@ -4,7 +4,8 @@ Hello World!
 
 :: StoryData
 {
-	"ifid": "8C26882B-3454-453A-AB00-D727063932FF"
+  "format": "SugarCube",
+  "format-version": "2.36.1"
 }
 
 
